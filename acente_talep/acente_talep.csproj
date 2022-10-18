@@ -6,7 +6,17 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+    <PackageId>Tali Acente Fiyat Talep Programı</PackageId>
+    <Authors>Yasin KARATEKE</Authors>
+    <Product>Tali Acente Fiyat Talep Programı</Product>
+    <Copyright>Copyright © 2022 Yasin KARATEKE. All rights reserved.</Copyright>
+    <PackageProjectUrl>https://github.com/ykarateke/acente_talep_yardimcisi</PackageProjectUrl>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="logo.ico" />
+  </ItemGroup>
 
   <ItemGroup>
     <Compile Update="Properties\Resources.Designer.cs">
