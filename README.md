@@ -69,9 +69,3 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ykarateke/ac
 ## Authors
 
 * **Yasin KARATEKE** - *developer* - [Yasin KARATEKE](https://github.com/ykarateke) - **
-
-## Acknowledgements
-
-* []()
-* []()
-* []()
