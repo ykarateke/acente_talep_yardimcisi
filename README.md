@@ -21,7 +21,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/ykarateke/acente_talep_yardimcisi/total) ![Contributors](https://img.shields.io/github/contributors/ykarateke/acente_talep_yardimcisi?color=dark-green) ![Stargazers](https://img.shields.io/github/stars/ykarateke/acente_talep_yardimcisi?style=social) ![License](https://img.shields.io/github/license/ykarateke/acente_talep_yardimcisi) 
+
 
 ## Table Of Contents
 
